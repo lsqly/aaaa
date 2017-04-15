@@ -1,0 +1,13 @@
+
+
+/*-------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------*/
+/*首页 index*/
+:root{font-size: 100px;}
+.swiper-slide {width: 6.4rem;
+			height: 8.62rem;}
+.main-nav{height: 0.98rem; width: 100%;}
+.main-nav li{width: 1.6rem; height: 0.98rem; background: url(../images/anniu1.png) no-repeat; float: left;background-size: cover;}
+.main-nav li a{display: block; width: 1.6rem; height: 0.98rem; background-size:auto ;}
+.main-nav .act{background: url(../images/anniu2.png) no-repeat; background-size: cover;}
